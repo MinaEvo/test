@@ -1,0 +1,2 @@
+print('Suck Monday')
+
